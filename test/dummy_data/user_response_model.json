@@ -1,0 +1,17 @@
+{
+    "page":1,
+    "per_page":1,
+    "total":1,
+    "total_pages":1,
+    "data":
+    [
+        {
+            "id":1,
+            "email":"email",
+            "first_name":"firstName",
+            "last_name":"lastName",
+            "avatar":"avatar"
+        }
+    ]
+}
+           
